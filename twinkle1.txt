@@ -1,0 +1,3 @@
+city,stars
+McKees Rocks,5.0
+Pittsburgh,4.0
